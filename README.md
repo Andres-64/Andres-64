@@ -1,2 +1,3 @@
 - Hi, I’m Andres
-- I’m interested in learning Java and also improve my coding skills. I’m currently working on my first videogame mod. My favorite hobby is practice Tennis and Swimming.
+- A Bilingual computer science student with expertise in software development, machine learning, data analytics and AI. Seeking to contribute to innovative projects and gain valuable experience.I’m interested in learning Java and also improve my coding skills.
+- I’m currently working on updating my github profile with my personal and school projects.
